@@ -112,23 +112,7 @@ I think her death it must be killin' me
 G G F#7     F#7
     Hey hey hey
  
-[Chorus]
-G
-   Come on try a little
-D
-   Nothing is forever
-Em7                    A
-   Got to be something better than
- 
-   In the middle
-G
-   Me & Cinderella
-D
-   Put it all together
-Em7
-   We can drive it home
-A     (A7sus4)  G D Em7 A
-   With one headlight
+[[Chorus]]
  
 [Outro]
 G D Em7 A
