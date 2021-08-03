@@ -80,23 +80,7 @@ She hit the end-it's just her window ledge
 G G F#7 F#7
          Hey hey
  
-[Chorus]
-G
-   Come on try a little
-D
-   Nothing is forever
-Em7                    A
-   Got to be something better than
- 
-   In the middle
-G
-   Me & Cinderella
-D
-   Put it all together
-   Em7              A   A7sus4
-   We can drive it home
-                G
-   With one headlight
+[[Chorus]]
  
 [Instrumental]
 (G) D F#7 Bm A
